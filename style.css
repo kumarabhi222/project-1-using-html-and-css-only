@@ -1,0 +1,66 @@
+html,body{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "lato",sans-serif;
+    font-size: 16px;
+    height: 100%;
+    color: #666;
+}
+.img1{
+    background-image: url(/images/image1.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.text-bg{
+    position: absolute;
+    top: 50%;
+    
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.text{
+    background: #313534;
+    color: #fff;
+    padding: 20px;
+}
+.section{
+    padding: 50px,80px;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #666;
+    
+}
+.img2{
+    background-image: url(/images/image2.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.section-2{ 
+    background-color: #282e34;
+    color: #ddd;
+}
+.img3{
+    background-image: url(/images/image3.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    background-position: center;
+    background-attachment: fixed;
+
+}
